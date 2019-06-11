@@ -417,3 +417,219 @@ cat .gi
 q
 cp .* Documents/github/dotfiles-ub-dual/
 q
+cp
+cp .* /home/broken-admin/Documents/github/dotfiles-ub-dual/
+cd Documents/
+.ls
+ls
+clear
+lc
+cd github/
+lc
+cd dotfiles-ub-dual/
+lc
+ls
+ls -a
+lc -a
+ls
+clear
+lc -a
+cd .git
+ls
+cd ..
+lc
+cd .git
+lc
+lc- a
+lc -a
+clear
+lc
+clear
+ls
+cd ..
+clear
+ls
+ls -a
+lc -a
+clear
+lc -a
+nano .tmux.conf 
+clear
+pwd
+git push
+git remote add github git@github.com:Broken-Admin/ubuntu-dual-dotfiles.git
+git push github
+git push --set-upstream github master
+git remote delete
+git remote set-url github https://github.com/Broken-Admin/ubuntu-dual-dotfiles.git
+git push --set-upstream github master
+git push --set-upstream github 
+git remote 
+git remote remove github
+clear
+ls
+git remote
+git remote add github https://github.com/Broken-Admin/ubuntu-dual-dotfiles
+git push --set-upstream github master
+git push
+git remote add origin https://github.com/Broken-Admin/ubuntu-dual-dotfiles
+git push --set-upstream origin master
+git add
+git add *
+ls
+lc -a
+git commit -m "init"
+git config --global user.email "brokengaming50@gmail.com"
+git config --global user.name "Broken-Admin"
+git commit -m "init"
+git remote
+git remote remove origin
+git push --set-upstream github master
+git remote add gitlab https://gitlab.com/Broken-Admin/ubuntu-dual-dotfiles
+git push gitlab
+clear
+q
+clear
+cd /mnt/windwos
+cd /mnt/windows/
+clear
+ls
+cd Users/Broken-Admin/
+clear
+ls
+cd Appd
+cd AppD
+cd AppData/
+clear
+lks
+clear
+lc -za
+clear
+ls
+cd Local
+clea
+clear
+ls
+cd Packages
+clear
+ls
+cd CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/
+clear
+ls
+cd LocalState/
+ls
+cd rootfs/
+clear
+ls
+cd home/
+clear
+ls
+cd alexresu/
+clea
+clear
+ls
+lc -a
+mv .bash_aliasesv2 ~
+cd 
+q
+ls
+clear
+lc
+lc a
+cl -a
+clear
+lc -a
+cd Documents/
+ls
+mkdir github
+rmdir programming/
+clear
+cd github/
+clear
+mkdir dotfiles-ub-dual
+clear
+ls
+cd dotfiles-ub-dual/
+git init
+clear
+ls
+clear
+q
+clear
+cd Documents/
+ls
+mkdir scripts
+ls
+cd scripts/
+nano backup-and-upload-dotfiles.sh
+clear
+ls
+chmod u+x backup-and-upload-dotfiles.sh 
+./backup-and-upload-dotfiles.sh 
+clear
+ls
+nano backup-and-upload-dotfiles.sh
+./backup-and-upload-dotfiles.sh 
+clear
+l
+clear
+ls
+nano backup-and-upload-dotfiles.sh 
+./backup-and-upload-dotfiles.sh 
+clear
+cd /mnt/windows
+cd Users/Broken-Admin/AppData/
+ls
+clear
+cd Local
+ls
+clear
+cd p*
+cd ..
+ls *
+clear
+lds p*
+ls p*
+clear
+lc -a p*
+clear
+ls
+cd Package
+cd Packages
+clear
+cd c5e2524a-ea46-4f67-841f-6a9465d9d515_cw5n1h2txyewy/
+cd ..
+cd CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/
+clear
+ls
+cd LocalState/
+ls
+cd rootfs/
+ls
+cd home/alexresu/
+cleasr
+clear
+ls
+lc
+lc v-a
+clear
+lc -a
+cp .bash_aliases .bash_aliasesv2
+cd 
+clea
+clear
+ls
+lc -a
+ls
+lc -a
+ls
+clear
+lc -a
+nano .bash_aliasesv2 
+rm .bash_aliasesv2 
+clear
+ls
+nano .bash_aliases 
+clear
+nano .bash_aliases 
+q
